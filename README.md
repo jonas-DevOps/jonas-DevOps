@@ -13,7 +13,7 @@
 <p>
   <img src="https://img.shields.io/badge/Status-Em%20constante%20evolução-58a6ff?style=for-the-badge" alt="Status: Em constante evolução" />
   <img src="https://img.shields.io/badge/Foco-Full%20Stack%20%26%20DevOps-8b949e?style=for-the-badge" alt="Foco: Full Stack e DevOps" />
-  <img src="https://img.shields.io/badge/Portfólio-Next.js%20%2B%20TypeScript-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Portfólio em Next.js e TypeScript" />
+  <a href="https://github.com/jonas-DevOps/portfolio-jonas-devops"><img src="https://img.shields.io/badge/Portfólio-Next.js%20%2B%20TypeScript-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Portfólio em Next.js e TypeScript" /></a>
 </p>
 
 <p>
@@ -335,78 +335,59 @@ Projetos que representam diferentes etapas da minha evolução em software, prod
 | **🌱 Irrigação Inteligente** | Protótipo com ESP32, sensores e reservatório, incluindo regras de segurança e comparação de controle PID × Fuzzy. | ESP32, C/C++, PID, Fuzzy, sensores, IoT |
 | **🥩 Charcutaria Mantovani** | Plataforma desenvolvida a partir de necessidades de um cliente real, envolvendo catálogo, pedidos PF/PJ, estoque, lotes e gestão. | Figma, UX/UI, requisitos, MVP, processos |
 
-> Este README e o site do portfólio evoluem junto com os projetos. Conforme cada solução ganhar repositório público ou demonstração online, os respectivos links poderão ser adicionados aqui e no portfólio.
+> Conforme os projetos evoluírem, novos repositórios públicos, demonstrações e links poderão ser adicionados aqui e também ao meu portfólio.
 
 ---
 
-## 🌐 Este repositório também é meu portfólio
+## 🌐 Meu Portfólio
 
-O repositório **`jonas-DevOps/jonas-DevOps`** possui duas funções:
-
-1. apresentar meu perfil diretamente no GitHub por meio deste `README.md`;
-2. armazenar o código-fonte do meu portfólio web, preparado para publicação na Vercel.
-
-### Stack do portfólio
+Além deste perfil no GitHub, mantenho um **portfólio web separado**, desenvolvido para apresentar meus projetos, experiências, tecnologias e evolução profissional de forma mais completa e interativa.
 
 <div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Next.js-16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-4-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
-</p>
+<a href="https://github.com/jonas-DevOps/portfolio-jonas-devops">
+  <img
+    src="https://img.shields.io/badge/Ver%20repositório-Portfólio-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="Repositório do Portfólio"
+  />
+</a>
 
-<p>
-  <img src="https://img.shields.io/badge/Deploy-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/CI-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI com GitHub Actions" />
-</p>
+<br/><br/>
+
+<img
+  src="https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=nextdotjs&logoColor=white"
+  alt="Next.js"
+/>
+<img
+  src="https://img.shields.io/badge/React-19-20232A?style=flat-square&logo=react&logoColor=61DAFB"
+  alt="React"
+/>
+<img
+  src="https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript&logoColor=white"
+  alt="TypeScript"
+/>
+<img
+  src="https://img.shields.io/badge/Tailwind%20CSS-4-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8"
+  alt="Tailwind CSS"
+/>
+<img
+  src="https://img.shields.io/badge/Deploy-Vercel-000000?style=flat-square&logo=vercel&logoColor=white"
+  alt="Vercel"
+/>
 
 </div>
 
-### Estrutura principal
+### O que você encontra no portfólio
 
-```text
-jonas-DevOps/
-├── .github/          # CI e automações do repositório
-├── app/              # Rotas, layout, SEO e páginas Next.js
-├── components/       # Componentes reutilizáveis da interface
-├── data/             # Conteúdo central do portfólio
-├── public/           # Imagens e arquivos públicos
-├── README.md         # Apresentação do perfil e do projeto
-└── package.json      # Scripts e dependências
-```
+- 👨‍💻 Apresentação profissional e trajetória.
+- 🧩 Projetos em destaque com contexto, objetivo e tecnologias utilizadas.
+- 🛠️ Tecnologias, ferramentas e áreas de atuação.
+- 🎨 Experiência com Front-end, Back-end, DevOps, dados e UX/UI.
+- 📚 Formação acadêmica e evolução profissional.
+- 🔗 Acesso centralizado aos meus principais canais e repositórios.
 
-### Executar localmente
-
-```bash
-npm install
-npm run dev
-```
-
-Depois acesse:
-
-```text
-http://localhost:3000
-```
-
-### Validar antes de publicar
-
-```bash
-npm run lint
-npm run typecheck
-npm run build
-```
-
-### ✏️ Atualização rápida de conteúdo
-
-A maior parte das informações exibidas no site está centralizada em:
-
-```text
-data/portfolio.ts
-```
-
-Nesse arquivo posso atualizar projetos, tecnologias, links, resumo profissional, LinkedIn, e-mail, currículo e demonstrações sem precisar alterar toda a interface.
+> O **README deste repositório** é a apresentação principal do meu perfil no GitHub.  
+> O **código-fonte do site** fica separado no repositório do portfólio, mantendo cada projeto organizado e com uma responsabilidade bem definida.
 
 ---
 
