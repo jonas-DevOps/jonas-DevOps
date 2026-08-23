@@ -13,10 +13,13 @@
 <p>
   <img src="https://img.shields.io/badge/Status-Em%20constante%20evolução-58a6ff?style=for-the-badge" alt="Status: Em constante evolução" />
   <img src="https://img.shields.io/badge/Foco-Full%20Stack%20%26%20DevOps-8b949e?style=for-the-badge" alt="Foco: Full Stack e DevOps" />
-  <a href="https://github.com/jonas-DevOps/portfolio-jonas-devops"><img src="https://img.shields.io/badge/Portfólio-Next.js%20%2B%20TypeScript-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Portfólio em Next.js e TypeScript" /></a>
+  <a href="https://jonas-dev-ops-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-Next.js%20%2B%20TypeScript-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Portfólio em Next.js e TypeScript" /></a>
 </p>
 
 <p>
+  <a href="https://jonas-dev-ops-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-Acessar%20Site-58a6ff?style=flat-square&logo=vercel&logoColor=white" alt="Acessar Portfólio Online" />
+  </a>
   <a href="https://github.com/jonas-DevOps">
     <img src="https://img.shields.io/badge/GitHub-jonas--DevOps-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -341,19 +344,32 @@ Projetos que representam diferentes etapas da minha evolução em software, prod
 
 ## 🌐 Meu Portfólio
 
-Além deste perfil no GitHub, mantenho um **portfólio web separado**, desenvolvido para apresentar meus projetos, experiências, tecnologias e evolução profissional de forma mais completa e interativa.
+Além deste perfil no GitHub, mantenho um **portfólio web profissional**, desenvolvido para apresentar meus projetos, experiências, tecnologias e evolução profissional de forma mais completa e interativa.
 
 <div align="center">
 
-<a href="https://github.com/jonas-DevOps/jonas-DevOps-Portfolio">
+<a href="https://jonas-dev-ops-portfolio.vercel.app/" target="_blank">
   <img
-    src="https://img.shields.io/badge/Ver%20repositório-Portfólio-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="Repositório do Portfólio"
+    src="https://img.shields.io/badge/🌐%20Acessar-Portfólio%20Online-58a6ff?style=for-the-badge"
+    alt="Acessar Portfólio Online"
+  />
+</a>
+
+<a href="https://github.com/jonas-DevOps/jonas-DevOps-Portfolio" target="_blank">
+  <img
+    src="https://img.shields.io/badge/GitHub-Ver%20Código-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="Ver código do Portfólio"
   />
 </a>
 
 <br/><br/>
 
+<a href="https://jonas-dev-ops-portfolio.vercel.app/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Deploy-Vercel-000000?style=flat-square&logo=vercel&logoColor=white"
+    alt="Deploy na Vercel"
+  />
+</a>
 <img
   src="https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=nextdotjs&logoColor=white"
   alt="Next.js"
@@ -370,10 +386,12 @@ Além deste perfil no GitHub, mantenho um **portfólio web separado**, desenvolv
   src="https://img.shields.io/badge/Tailwind%20CSS-4-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8"
   alt="Tailwind CSS"
 />
-<img
-  src="https://img.shields.io/badge/Deploy-Vercel-000000?style=flat-square&logo=vercel&logoColor=white"
-  alt="Vercel"
-/>
+
+<br/><br/>
+
+🔗 **Site:** [https://jonas-dev-ops-portfolio.vercel.app/](https://jonas-dev-ops-portfolio.vercel.app/)
+
+📦 **Código-fonte:** [https://github.com/jonas-DevOps/jonas-DevOps-Portfolio](https://github.com/jonas-DevOps/jonas-DevOps-Portfolio)
 
 </div>
 
