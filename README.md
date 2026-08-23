@@ -345,7 +345,7 @@ Além deste perfil no GitHub, mantenho um **portfólio web separado**, desenvolv
 
 <div align="center">
 
-<a href="https://github.com/jonas-DevOps/portfolio-jonas-devops">
+<a href="https://github.com/jonas-DevOps/jonas-DevOps-Portfolio">
   <img
     src="https://img.shields.io/badge/Ver%20repositório-Portfólio-181717?style=for-the-badge&logo=github&logoColor=white"
     alt="Repositório do Portfólio"
